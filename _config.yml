@@ -1,11 +1,11 @@
 # Site settings
-author: Renee SIMS
-title: 
+author: Renee Sims
+title: Bit Love Blog
 header-img: img/home-bg.png
 email: info@reneesoul.com
-copyright_name: Renee SIMS
+copyright_name: Renee Sims
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Getting to the next great processes!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alouiscious
