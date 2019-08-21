@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hash of arrays or arrays of hashes"
-date:       2019-08-21 02:30:55 +0000
+date:       2019-08-20 22:30:56 -0400
 permalink:  hash_of_arrays_or_arrays_of_hashes
 ---
 
