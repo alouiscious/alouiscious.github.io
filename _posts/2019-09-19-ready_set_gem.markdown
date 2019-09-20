@@ -6,6 +6,7 @@ permalink:  ready_set_gem
 ---
 
 
+![](https://www.youtube.com/watch?v=HR2Fm21ksvM)
 On the first day of the Part-Time 071519 Flatiron Sofware Engineers Online program, our cohort co-instructor lead a study group detailing what we could expect to cover in the two month module.
 Of course, I had a limited understanding of what the heck my instructor was talking about. Also I discovered I was not alone in my lack of prowess, when other cohort members lapsed in to cricket mode when answers and comments were solicited. I had no idea until last Sunday, how valuable that first video would become or how far I perceived I had come in preparation for completing this Module 1 of 5 - final project.
 
