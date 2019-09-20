@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ready... Set... Gem!"
-date:       2019-09-20 00:12:43 +0000
+date:       2019-09-19 20:12:44 -0400
 permalink:  ready_set_gem
 ---
 
