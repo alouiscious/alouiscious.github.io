@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What does it take to code"
-date:       2020-08-01 00:17:37 +0000
+date:       2020-07-31 20:17:38 -0400
 permalink:  what_does_it_take_to_code
 ---
 
