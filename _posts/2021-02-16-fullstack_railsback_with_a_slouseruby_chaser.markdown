@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "fullStack railsBack with a slouseRuby chaser"
-date:       2021-02-16 07:38:51 +0000
+date:       2021-02-16 02:38:52 -0500
 permalink:  fullstack_railsback_with_a_slouseruby_chaser
 ---
 
